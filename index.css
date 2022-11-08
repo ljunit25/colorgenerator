@@ -77,6 +77,11 @@ body {
 
 @media only screen and (max-width: 600px){
 
+  .container {
+    width: 90%;
+    
+  }
+
   .header-col {
 
     justify-content: space-around;
