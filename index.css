@@ -87,7 +87,7 @@ body {
     justify-content: space-around;
     flex-direction: column;
     align-items: center;
-    margin: 20px 10px;
+    margin: 10px 0px;
   
   }
 
@@ -99,6 +99,14 @@ body {
 
   .header button {
     padding: 9px 35px;
+  }
+
+  .rowbody {
+    height: 250px;
+  }
+
+  .foot-col {
+    margin: 10px 0px;
   }
 
 }
